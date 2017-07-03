@@ -1,0 +1,6 @@
+QR codes generated from: http://www.qr-code-generator.com/
+IDE used: Android Studio v2.3.3 (source code: java)
+Camera permission must be manually enabled from app settings.
+BEFORE TESTING APPLICATION: Developer mode must be enabled on the testing device. Steps here: https://developer.android.com/studio/debug/dev-options.html, then go to the developer options in settings and enable usb debugging before testing app.
+
+QR Code image processing library used: ZXing Library (More details: https://github.com/zxing/zxing)
